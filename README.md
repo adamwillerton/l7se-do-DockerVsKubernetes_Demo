@@ -1,2 +1,2 @@
 # l7se-do-Kubernetes
-Basic Kubernetes example via CodeSpaces for demo purposes
+Basic examples of Docker and Kubernetes via CodeSpaces for demo purposes
